@@ -44,7 +44,7 @@ The dataset contains survey responses collected from beneficiaries of a social p
 
 ## 1. Age Distribution
 
-![Age Distribution](Age%20distribution.png)
+![Age Distribution](<Age distribution.png>)
 
 Descriptive statistics were used to summarize the demographic characteristics of respondents, providing an overview of the study population.
 
