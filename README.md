@@ -52,7 +52,7 @@ Descriptive statistics were used to summarize the demographic characteristics of
 
 ## 2. Reliability Analysis
 
-![Reliability Analysis](Reliability Analysis.png)
+![Reliability Analysis](./Reliability%20Analysis.png)
 
 Cronbach's Alpha was used to evaluate the internal consistency and reliability of the questionnaire items before further statistical analysis.
 
