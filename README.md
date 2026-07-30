@@ -44,7 +44,7 @@ The dataset contains survey responses collected from beneficiaries of a social p
 
 ## 1. Age Distribution
 
-![Age Distribution](images/Age%20distribution.png)
+![Age Distribution](Age%20distribution.png)
 
 Descriptive statistics were used to summarize the demographic characteristics of respondents, providing an overview of the study population.
 
@@ -52,7 +52,7 @@ Descriptive statistics were used to summarize the demographic characteristics of
 
 ## 2. Reliability Analysis
 
-![Reliability Analysis](images/Reliability%20Analysis.png)
+![Reliability Analysis](Reliability%20Analysis.png)
 
 Cronbach's Alpha was used to evaluate the internal consistency and reliability of the questionnaire items before further statistical analysis.
 
@@ -60,7 +60,7 @@ Cronbach's Alpha was used to evaluate the internal consistency and reliability o
 
 ## 3. Index Computation and Categorization
 
-![Index Computation and Categorization](images/Index%20computation%20and%20categorization.png)
+![Index Computation and Categorization](Index%20computation%20and%20categorization.png)
 
 Composite indices were computed using the mean of selected questionnaire items and subsequently categorized into Low, Medium, and High groups to facilitate statistical analysis.
 
@@ -68,7 +68,7 @@ Composite indices were computed using the mean of selected questionnaire items a
 
 ## 4. Chi-square Tests
 
-![Chi-square Tests](images/Chi-square%20Tests.png)
+![Chi-square Tests](Chi-square%20Tests.png)
 
 Chi-square tests were performed to determine whether statistically significant relationships existed between selected categorical variables within the study.
 
